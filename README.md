@@ -1,7 +1,7 @@
 # 👋🏻 Joabe Bomfim Valverde
 ## 🚀 Sobre mim
 
-Sou Graduado em Educação Física e graduando em Analises e Desenvolvimentos de Sistemas. Tenho buscado estudar bastante na área de desenvolvimento de Software para num futuro breve está conseguindo criar projetos sólidos.
+Graduando em Analises e Desenvolvimentos de Sistemas. Tenho buscado estudar bastante na área de desenvolvimento de Software para num futuro breve está conseguindo criar projetos sólidos.
 
 
 ### Conecte-se comigo
