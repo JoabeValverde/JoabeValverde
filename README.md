@@ -16,6 +16,8 @@ Graduando em Analises e Desenvolvimentos de Sistemas. Tenho buscado estudar bast
 [![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)](https://developer.mozilla.org/docs/Web/HTML)
+
 
 ### GitHub Stats
 
